@@ -1,0 +1,60 @@
+#logo{
+    height: 110px;
+    width: 110px;
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.brand{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#box2{
+ 
+}
+
+#img2{
+    width: 400px;
+    height: 500px;
+    margin-left: 5%;
+}
+
+/* #custom{
+    width: 400px;
+    height: 500px;
+    margin-left: 35%;
+} */
+#deal{
+    display: flex;
+    justify-content: space-evenly;
+   
+
+
+}
+#deal_content{
+    font-size:larger;
+}
+#book{
+    font-size: xx-large;
+    height: 100px;
+    width: 300px;
+    margin-left: 15%;
+    border-radius: 50px;
+}
+#upper{
+    display: block;
+    justify-content: space-evenly;
+}
+#don{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#snack{
+    display: flex;
+    justify-content: space-evenly;
+
+}
